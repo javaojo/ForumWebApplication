@@ -1,0 +1,14 @@
+<div class="box">
+  <article class="media">
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <strong><%= reply.user.email %></strong> <small><%= time_ago_in_words(reply.created_at) %></small>
+          <br/>
+          <%= reply.reply %>
+        </p>
+      </div>
+
+    </div>
+  </article>
+</div>

@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: First Post
+  content: Random generated text here.
+  created_at:  2019-12-14 14:52:31.802770
+  updated_at: 2019-12-14 14:52:31.802771
+  channel_id: channel_id
+
+
+two:
+  title: Second Post
+  content: Second random generated text here.
+  created_at:  2019-12-14 14:52:31.802770
+  updated_at: 2019-12-14 14:52:31.802771
+  channel_id: channel_id
